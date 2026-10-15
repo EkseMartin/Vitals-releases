@@ -7,6 +7,40 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Nye versjoner av Vitals</description>
         <language>nb</language>
         <item>
+            <title>Vitals 0.2.0.236</title>
+            <pubDate>Thu, 15 Oct 2026 21:47:42 +0200</pubDate>
+            <sparkle:version>236</sparkle:version>
+            <sparkle:shortVersionString>0.2.0.236</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><style>
+html,body{margin:0;background:#0E0F11;color:#C9CED4;color-scheme:dark}
+body{padding:10px 12px;font:11.5px ui-monospace,'SF Mono',Menlo,monospace}
+.h{display:flex;justify-content:space-between;padding-bottom:6px;color:#80868F;font:600 10px -apple-system,sans-serif;letter-spacing:.14em;text-transform:uppercase}
+.h span+span{font:10px ui-monospace,'SF Mono',Menlo,monospace;letter-spacing:0}
+ul{list-style:none;margin:0;padding:0}
+li{padding:6px 0;border-top:1px solid #1C1F23}
+li::before{content:"\00B7  ";color:#80868F}
+</style></head><body>
+<div class="h"><span>0.2.0.236</span><span>15.10.2026</span></div>
+<ul>
+<li>Ett varsel per feil: det som følger av samme feil, står som kort i menyen uten eget varsel.</li>
+<li>Samme feil igjen gir alltid nytt varsel, også etter «Mottatt».</li>
+<li>Lydkort, USB-MIDI og eksterne disker som kobles fra, varsler etter 1 sekund, kritisk under show.</li>
+<li>Nytt: «Live får ikke startet lyden» når macOS nekter Live å starte lydkortet.</li>
+<li>Nytt: Thunderbolt-enheter (som Apollo) vises i USB-fanen, med «Mangler» når et Thunderbolt-lydkort forsvinner.</li>
+<li>Kabelen i en Thunderbolt-port viser Thunderbolt-farten i stedet for «USB 2».</li>
+<li>Forventet oppsett viser «Annen enhet» når et lydkort er byttet med et av samme slag.</li>
+<li>Signalveien viser «HØRES IKKE» når lydkortets Dante-side ikke svarer.</li>
+<li>«Løst»-kort kan fjernes med et kryss.</li>
+<li>Rapporten etter show er en tydelig liste.</li>
+<li>DVS-kortet: en treg link eller et kabelbrudd gir ett varsel, ikke tre.</li>
+<li>iCloud og andre bakgrunnsjobber som jobber i rykk, gir én alarm.</li>
+<li>Rettet: «Mottatt» skrev enhetens MAC-adresse i systemloggen.</li>
+</ul>
+</body></html>]]></description>
+            <enclosure url="https://github.com/EkseMartin/Vitals-releases/releases/download/v0.2.0.236/Vitals-0.2.0.236.pkg" length="6055315" type="application/octet-stream" sparkle:edSignature="n/St4ga6OwtFTsPL5uLRHLfsGLdaMSnzUCRi+LwFZCHW3Gf39y3AwumHWDKLRH/5MWy8AgGXQRHs2YaoJMpDCg=="></enclosure>
+        </item>
+        <item>
             <title>Vitals 0.2.0.204</title>
             <pubDate>Thu, 15 Oct 2026 13:57:02 +0200</pubDate>
             <sparkle:version>204</sparkle:version>
@@ -121,6 +155,6 @@ li::before{content:"\00B7  ";color:#80868F}
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: aP5AoEFtIA19LfdSPoqw0VkzlcZhGBT2mB41AXOPGFvjmXhrPU5+Pk6slp9glqKpmW2oyuUbESptqHuQVOnzDA==
-length: 8337
+edSignature: WKeQoGRC7i9BR+sHUg0DI+zQj6aWEjsH1eHFdrvo/tzLutAnND4LLRc0AVjcJjfPwPXtzkupJGCQK4MzURXJCg==
+length: 10820
 -->
