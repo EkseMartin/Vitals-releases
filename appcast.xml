@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Vitals</title>
         <link>https://github.com/EkseMartin/Vitals-releases</link>
         <description>Nye versjoner av Vitals</description>
         <language>nb</language>
     </channel>
-</rss>
+</rss><!-- sparkle-signatures:
+edSignature: 2rd9m76Oq2BNb+y96u46KtxCVUHSo5e4Z7NEKX6m+VGqdoqTVXBDNCGFfCouiE9QZAkN7ZZMJmSx1b5/rbDvAA==
+length: 602
+-->
