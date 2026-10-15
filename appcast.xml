@@ -7,6 +7,28 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Nye versjoner av Vitals</description>
         <language>nb</language>
         <item>
+            <title>Vitals 0.2.0.204</title>
+            <pubDate>Thu, 15 Oct 2026 13:57:02 +0200</pubDate>
+            <sparkle:version>204</sparkle:version>
+            <sparkle:shortVersionString>0.2.0.204</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><style>
+html,body{margin:0;background:#0E0F11;color:#C9CED4;color-scheme:dark}
+body{padding:10px 12px;font:11.5px ui-monospace,'SF Mono',Menlo,monospace}
+.h{display:flex;justify-content:space-between;padding-bottom:6px;color:#80868F;font:600 10px -apple-system,sans-serif;letter-spacing:.14em;text-transform:uppercase}
+.h span+span{font:10px ui-monospace,'SF Mono',Menlo,monospace;letter-spacing:0}
+ul{list-style:none;margin:0;padding:0}
+li{padding:6px 0;border-top:1px solid #1C1F23}
+li::before{content:"\00B7  ";color:#80868F}
+</style></head><body>
+<div class="h"><span>0.2.0.204</span><span>15.10.2026</span></div>
+<ul>
+<li>Ingen endringer i appen: denne versjonen prøver bare at oppdateringen virker</li>
+</ul>
+</body></html>]]></description>
+            <enclosure url="https://github.com/EkseMartin/Vitals-releases/releases/download/v0.2.0.204/Vitals-0.2.0.204.pkg" length="5959731" type="application/octet-stream" sparkle:edSignature="KnXMr41jeXmgS3+x0imaHfHFQPdtktrqxxGQxLdFaRTSzYOeui6pTJyd1mO4bJLHzcSCyznix6yBv1e3ehoACA=="></enclosure>
+        </item>
+        <item>
             <title>Vitals 0.2.0.203</title>
             <pubDate>Thu, 15 Oct 2026 13:45:38 +0200</pubDate>
             <sparkle:version>203</sparkle:version>
@@ -99,6 +121,6 @@ li::before{content:"\00B7  ";color:#80868F}
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: cn9SYZvAkwzyimYANo4OzQmh/y9MhS7gqxdI2rM57uYnPvlNZslfPSeNA/Wud8wkDscOgeD2Qcb3sOXAhwT/Ag==
-length: 6862
+edSignature: aP5AoEFtIA19LfdSPoqw0VkzlcZhGBT2mB41AXOPGFvjmXhrPU5+Pk6slp9glqKpmW2oyuUbESptqHuQVOnzDA==
+length: 8337
 -->
