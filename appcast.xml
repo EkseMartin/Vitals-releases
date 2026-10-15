@@ -6,8 +6,42 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <link>https://github.com/EkseMartin/Vitals-releases</link>
         <description>Nye versjoner av Vitals</description>
         <language>nb</language>
+        <item>
+            <title>Vitals 0.2.0.198</title>
+            <pubDate>Thu, 15 Oct 2026 13:23:13 +0200</pubDate>
+            <sparkle:version>198</sparkle:version>
+            <sparkle:shortVersionString>0.2.0.198</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><style>
+html,body{margin:0;background:#0E0F11;color:#C9CED4;color-scheme:dark}
+body{padding:10px 12px;font:11.5px ui-monospace,'SF Mono',Menlo,monospace}
+.h{display:flex;justify-content:space-between;padding-bottom:6px;color:#80868F;font:600 10px -apple-system,sans-serif;letter-spacing:.14em;text-transform:uppercase}
+.h span+span{font:10px ui-monospace,'SF Mono',Menlo,monospace;letter-spacing:0}
+ul{list-style:none;margin:0;padding:0}
+li{padding:6px 0;border-top:1px solid #1C1F23}
+li::before{content:"\00B7  ";color:#80868F}
+</style></head><body>
+<div class="h"><span>0.2.0.198</span><span>15.10.2026</span></div>
+<ul>
+<li>Nytt utseende, Konsoll: alltid mørk, en stripe med sidene og én LED per område</li>
+<li>Signalvei: veien lyden går fra Live til nettet, og hvor den brytes</li>
+<li>Varsler innen sekunder i stedet for opptil ett minutt</li>
+<li>«Mottatt»: like hendelser med ett trykk, og alarmer om det som er over forsvinner</li>
+<li>Dante-klokka: leder, lederbytte, to klokker, og hakk før en enhet blir borte</li>
+<li>Nettverksløkke, broadcast-storm, spanning tree og kablet link som er nesten full</li>
+<li>Andre Vitals-Mac-er: varsel når en blir borte, med pakketap og klokkeavvik</li>
+<li>USB-C: tilbehør macOS holder tilbake, lader som ikke holder følge, kabelinfo</li>
+<li>Maskin: prosessor, bakgrunnsjobber, diskfeil og iCloud-lagring</li>
+<li>Ping og nettside for en enhet, forventet oppsett og rapport etter show som PDF</li>
+<li>Nullstill hendelsesloggen i menyen</li>
+<li>Nye versjoner kommer heretter med et varsel og et spørsmål</li>
+<li>Krever macOS 26</li>
+</ul>
+</body></html>]]></description>
+            <enclosure url="https://github.com/EkseMartin/Vitals-releases/releases/download/v0.2.0.198/Vitals-0.2.0.198.pkg" length="5958300" type="application/octet-stream" sparkle:edSignature="QdWUZk2dWearvBoPC2oI6feQRQmBTgk9kSwaHB3QjFF6uNR2YjylW6YMoIQFgZZc5Lf0IztaStZqphShcdCwBQ=="></enclosure>
+        </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 2rd9m76Oq2BNb+y96u46KtxCVUHSo5e4Z7NEKX6m+VGqdoqTVXBDNCGFfCouiE9QZAkN7ZZMJmSx1b5/rbDvAA==
-length: 602
+edSignature: EwvScmbMrkJqFatYSUhsKyLfBu/7aehrGZH9Tj88Aok6nlchFlMbBgWjgJ0YzKZ4fwhqNf0r/LvjqWjOm0CiAg==
+length: 2964
 -->
