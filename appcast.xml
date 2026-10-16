@@ -7,6 +7,42 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Nye versjoner av Vitals</description>
         <language>nb</language>
         <item>
+            <title>Vitals 0.2.0.250</title>
+            <pubDate>Fri, 16 Oct 2026 21:40:55 +0200</pubDate>
+            <sparkle:version>250</sparkle:version>
+            <sparkle:shortVersionString>0.2.0.250</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><style>
+html,body{margin:0;background:#0E0F11;color:#C9CED4;color-scheme:dark}
+body{padding:10px 12px;font:11.5px ui-monospace,'SF Mono',Menlo,monospace}
+.h{display:flex;justify-content:space-between;padding-bottom:6px;color:#80868F;font:600 10px -apple-system,sans-serif;letter-spacing:.14em;text-transform:uppercase}
+.h span+span{font:10px ui-monospace,'SF Mono',Menlo,monospace;letter-spacing:0}
+ul{list-style:none;margin:0;padding:0}
+li{padding:6px 0;border-top:1px solid #1C1F23}
+li::before{content:"\00B7  ";color:#80868F}
+</style></head><body>
+<div class="h"><span>0.2.0.250</span><span>16.10.2026</span></div>
+<ul>
+<li>Design: Nytt utseende som følger macOS, lyst eller mørkt, roligere og tydeligere enn før. Velg under Innstillinger → Utseende.</li>
+<li>Design: Fanene øverst er én segmentvelger, med en prikk i fargen bare når noe er galt der.</li>
+<li>Design: Status viser varselsymbol bare når noe er galt; det som er i orden, står samlet på én rolig linje.</li>
+<li>Design: Tydeligere knapper og brytere med egen kant, og kort som skiller seg fra bakgrunnen.</li>
+<li>Design: Oversikt viser bare siste linje fra loggen; Logg og Forventet oppsett åpnes som egne sider (‹ eller ⌘[ går tilbake).</li>
+<li>Design: «Show» står øverst bare når Live kjører.</li>
+<li>Design: Innstillinger er samlet i grupperte kort, som i Systeminnstillinger, og versjonen står der.</li>
+<li>Design: Enheter har søkefelt og kategorier som segmenter; navn, varsel og ping er knapper til høyre på raden.</li>
+<li>Nytt: Klargjøring øverst på Oversikt viser det som må gjøres på denne Mac-en, til det er gjort.</li>
+<li>Nytt: Lockup er en side i Vitals, med brytere for innstillingene en playback-Mac trenger: ingen dvale, start igjen av seg selv, bare se etter oppdateringer, Time Machine av, gjestebruker av, skjermsparer aldri og UAs lisenshjelper.</li>
+<li>Nytt: Ingenting endres før du slår på en Lockup-bryter, og det krever administratorpassord. På din egen Mac: velg «Bruk ingen».</li>
+<li>Nytt: En alarm du har trykket «Mottatt» på, kan fjernes fra Oversikt med ×. Den kommer tilbake hvis feilen skjer igjen.</li>
+<li>Rettet: En nettverksadapter som dras ut idet lokket lukkes, står ikke lenger som alarm neste morgen.</li>
+<li>Sikrere: Falske signaler fra andre på nettverket kan ikke lenger skjule at en enhet er borte.</li>
+<li>«Send til Albini» i Innstillinger er bare for SonicBookene og er ikke med i denne versjonen.</li>
+</ul>
+</body></html>]]></description>
+            <enclosure url="https://github.com/EkseMartin/Vitals-releases/releases/download/v0.2.0.250/Vitals-0.2.0.250.pkg" length="6277086" type="application/octet-stream" sparkle:edSignature="hajzZIr//MYG/CV9IH4UFKeV+65ri4vSDqAa0o9U8pDFSWGciJyNJQcLPBM7K+ZNpE0HnnLL6aplUZMocPzvBw=="></enclosure>
+        </item>
+        <item>
             <title>Vitals 0.2.0.236</title>
             <pubDate>Thu, 15 Oct 2026 21:47:42 +0200</pubDate>
             <sparkle:version>236</sparkle:version>
@@ -155,6 +191,6 @@ li::before{content:"\00B7  ";color:#80868F}
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: WKeQoGRC7i9BR+sHUg0DI+zQj6aWEjsH1eHFdrvo/tzLutAnND4LLRc0AVjcJjfPwPXtzkupJGCQK4MzURXJCg==
-length: 10820
+edSignature: qMxFjYAAmu39S02waNFEBCkQ8YofVco0U6x9qbnXM4t4wXzzyRIndvq6KgE5YL+3paWtWf8qqd2K1MBCerCEDQ==
+length: 14057
 -->
