@@ -7,6 +7,62 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Nye versjoner av Vitals</description>
         <language>nb</language>
         <item>
+            <title>Vitals 0.2.0.253</title>
+            <pubDate>Fri, 16 Oct 2026 23:54:14 +0200</pubDate>
+            <sparkle:version>253</sparkle:version>
+            <sparkle:shortVersionString>0.2.0.253</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><style>
+:root{color-scheme:light dark;--bg:#ECECEE;--surface:#FFFFFF;--ink:#1D1D1F;--muted:#616166;--line:#D9D9DE}
+@media (prefers-color-scheme:dark){:root{--bg:#1C1D20;--surface:#2B2C30;--ink:#F2F2F4;--muted:#AEAFB6;--line:#3D3E44}}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{padding:12px;font:13px/1.35 -apple-system,BlinkMacSystemFont,sans-serif}
+.h{display:flex;justify-content:space-between;align-items:baseline;margin:0 4px 12px}
+.h b{font-weight:600}
+.h span{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
+h2{margin:0 4px 6px;font-size:12px;font-weight:600;color:var(--muted)}
+ul{list-style:none;margin:0;padding:0 12px;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+ul+h2,ul+ul{margin-top:16px}
+li{padding:8px 0}
+li+li{border-top:1px solid var(--line)}
+</style></head><body>
+<div class="h"><b>Vitals 0.2.0.253</b><span>16.10.2026</span></div>
+<h2>Design</h2>
+<ul>
+<li>Nytt utseende som følger macOS, lyst eller mørkt, roligere og tydeligere enn før. Velg under Innstillinger → Utseende.</li>
+<li>Fanene øverst er én segmentvelger, med en prikk i fargen bare når noe er galt der.</li>
+<li>Status viser varselsymbol bare når noe er galt; det som er i orden, står samlet på én rolig linje.</li>
+<li>Tydeligere knapper og brytere med egen kant, og kort som skiller seg fra bakgrunnen.</li>
+<li>Oversikt viser bare siste linje fra loggen; Logg og Forventet oppsett åpnes som egne sider (‹ eller ⌘[ går tilbake).</li>
+<li>«Show» står øverst bare når Live kjører.</li>
+<li>Innstillinger er samlet i grupperte kort, som i Systeminnstillinger, og versjonen står der.</li>
+<li>Enheter har søkefelt og kategorier som segmenter; navn, varsel og ping er knapper til høyre på raden.</li>
+<li>«Hva er nytt» har samme utseende som appen, lyst eller mørkt, med overskrifter som her.</li>
+</ul>
+<h2>Nytt</h2>
+<ul>
+<li>Vitals kan nå brukes på macOS 15 Sequoia, ikke bare macOS 26 og nyere.</li>
+<li>Klargjøring øverst på Oversikt viser det som må gjøres på denne Mac-en, til det er gjort.</li>
+<li>Lockup er en side i Vitals, med brytere for innstillingene en playback-Mac trenger: ingen dvale, start igjen av seg selv, bare se etter oppdateringer, Time Machine av, gjestebruker av, skjermsparer aldri og UAs lisenshjelper.</li>
+<li>Ingenting endres før du slår på en Lockup-bryter, og det krever administratorpassord. På din egen Mac: velg «Bruk ingen».</li>
+<li>En alarm du har trykket «Mottatt» på, kan fjernes fra Oversikt med ×. Den kommer tilbake hvis feilen skjer igjen.</li>
+</ul>
+<h2>Rettet</h2>
+<ul>
+<li>En nettverksadapter som dras ut idet lokket lukkes, står ikke lenger som alarm neste morgen.</li>
+</ul>
+<h2>Sikrere</h2>
+<ul>
+<li>Falske signaler fra andre på nettverket kan ikke lenger skjule at en enhet er borte.</li>
+</ul>
+<ul>
+<li>«Send til Albini» i Innstillinger er bare for SonicBookene og er ikke med i denne versjonen.</li>
+<li>Første versjon for Sequoia: si fra hvis noe ser rart ut eller ikke virker.</li>
+</ul>
+</body></html>]]></description>
+            <enclosure url="https://github.com/EkseMartin/Vitals-releases/releases/download/v0.2.0.253/Vitals-0.2.0.253.pkg" length="6277126" type="application/octet-stream" sparkle:edSignature="OUgvLq7qxu6N/EiRicMH9MHgkLua+tQy6vcaYGZgW4i8ZU5pj44k4HpSi3jY/cYh+rnI5QPAT1ef+NEduecADw=="></enclosure>
+        </item>
+        <item>
             <title>Vitals 0.2.0.250</title>
             <pubDate>Fri, 16 Oct 2026 21:40:55 +0200</pubDate>
             <sparkle:version>250</sparkle:version>
@@ -191,6 +247,6 @@ li::before{content:"\00B7  ";color:#80868F}
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: qMxFjYAAmu39S02waNFEBCkQ8YofVco0U6x9qbnXM4t4wXzzyRIndvq6KgE5YL+3paWtWf8qqd2K1MBCerCEDQ==
-length: 14057
+edSignature: 6rWnAMbAAJUZlsirJiVTWf/DmvcOPiFTqZXvp2FTC94eGvdjJjDn3VIqk7i6AJ2bcWT7oml+gWt852SKepxGDw==
+length: 17866
 -->
