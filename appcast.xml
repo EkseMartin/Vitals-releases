@@ -7,6 +7,45 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Nye versjoner av Vitals</description>
         <language>nb</language>
         <item>
+            <title>Vitals 0.2.0.275</title>
+            <pubDate>Mon, 19 Oct 2026 13:04:57 +0200</pubDate>
+            <sparkle:version>275</sparkle:version>
+            <sparkle:shortVersionString>0.2.0.275</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><style>
+:root{color-scheme:light dark;--bg:#ECECEE;--surface:#FFFFFF;--ink:#1D1D1F;--muted:#616166;--line:#D9D9DE}
+@media (prefers-color-scheme:dark){:root{--bg:#1C1D20;--surface:#2B2C30;--ink:#F2F2F4;--muted:#AEAFB6;--line:#3D3E44}}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{padding:12px;font:13px/1.35 -apple-system,BlinkMacSystemFont,sans-serif}
+.h{display:flex;justify-content:space-between;align-items:baseline;margin:0 4px 12px}
+.h b{font-weight:600}
+.h span{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
+h2{margin:0 4px 6px;font-size:12px;font-weight:600;color:var(--muted)}
+ul{list-style:none;margin:0;padding:0 12px;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+ul+h2,ul+ul{margin-top:16px}
+li{padding:8px 0}
+li+li{border-top:1px solid var(--line)}
+</style></head><body>
+<div class="h"><b>Vitals 0.2.0.275</b><span>19.10.2026</span></div>
+<h2>Nytt</h2>
+<ul>
+<li>Gi tilbakemelding rett fra Vitals: «Gi tilbakemelding …» nederst i menyen, for feil og ønsker</li>
+<li>Legg ved status fra Vitals (uten MAC- og IP-adresser) og et skjermbilde av menyen hvis du vil; «Vis …» viser alt som sendes</li>
+<li>Under Innstillinger → Tilbakemelding ser du sakene dine og svarene fra oss, og et nytt svar kommer som en rad i menyen</li>
+</ul>
+<h2>Rettet</h2>
+<ul>
+<li>Installasjon fra dmg-en kunne stoppe med «Contact the software manufacturer» selv om Ableton Live ikke kjørte</li>
+<li>Ableton Live kjennes igjen på seg selv: et annet program som heter Live, slår ikke lenger på show-modus eller gir «Ableton Live krasjet»</li>
+<li>Bakgrunnstjenesten krasjet hver gang den ble stoppet, ved oppdatering og omstart</li>
+</ul>
+<ul>
+<li>Samme innhold som 0.2.0.272. Bruk gjerne tilbakemeldingen: si fra om alt som er rart, mangler eller kunne vært bedre.</li>
+</ul>
+</body></html>]]></description>
+            <enclosure url="https://github.com/EkseMartin/Vitals-releases/releases/download/v0.2.0.275/Vitals-0.2.0.275.pkg" length="6705693" type="application/octet-stream" sparkle:edSignature="KFq7yB55xUSw3dKLQG2SLY6qVp0mc/HyrI56TcEdVjk+wOCyw7KB/NNL8UEbLzaX5haXfTufcp5/Aem1AVyPDg=="></enclosure>
+        </item>
+        <item>
             <title>Vitals 0.2.0.272</title>
             <pubDate>Mon, 19 Oct 2026 12:55:16 +0200</pubDate>
             <sparkle:version>272</sparkle:version>
@@ -366,6 +405,6 @@ li::before{content:"\00B7  ";color:#80868F}
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: gs6ccIh550xMY2HH1dp2hlrn0RWPUSDyIo16o2XmAcQI/AVxNKgLB+5DJa1nCwM57nGC0AgpqJIPrJAuw4eeCg==
-length: 25266
+edSignature: KH3IzHz4eknLutF7yrpwb0ZgwDpB1Zdo9dEVlLgwXP/V63TeeGZY3EYWekSap2LVmy40ixEVPl6OJYJmigwMBA==
+length: 27875
 -->
