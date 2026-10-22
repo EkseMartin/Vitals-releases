@@ -7,6 +7,43 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Nye versjoner av Vitals</description>
         <language>nb</language>
         <item>
+            <title>Vitals 0.2.0.288</title>
+            <pubDate>Thu, 22 Oct 2026 12:29:21 +0200</pubDate>
+            <sparkle:version>288</sparkle:version>
+            <sparkle:shortVersionString>0.2.0.288</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><style>
+:root{color-scheme:light dark;--bg:#ECECEE;--surface:#FFFFFF;--ink:#1D1D1F;--muted:#616166;--line:#D9D9DE}
+@media (prefers-color-scheme:dark){:root{--bg:#1C1D20;--surface:#2B2C30;--ink:#F2F2F4;--muted:#AEAFB6;--line:#3D3E44}}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{padding:12px;font:13px/1.35 -apple-system,BlinkMacSystemFont,sans-serif}
+.h{display:flex;justify-content:space-between;align-items:baseline;margin:0 4px 12px}
+.h b{font-weight:600}
+.h span{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
+h2{margin:0 4px 6px;font-size:12px;font-weight:600;color:var(--muted)}
+ul{list-style:none;margin:0;padding:0 12px;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+ul+h2,ul+ul{margin-top:16px}
+li{padding:8px 0}
+li+li{border-top:1px solid var(--line)}
+</style></head><body>
+<div class="h"><b>Vitals 0.2.0.288</b><span>22.10.2026</span></div>
+<h2>Nytt</h2>
+<ul>
+<li>Viskelæret i «Siste 6 timer» på Playback-fanen nullstiller lydutfall og link-brudd, så tellingen og tidslinjen begynner på nytt</li>
+</ul>
+<h2>Rettet</h2>
+<ul>
+<li>Lydutfall mens Live åpner et sett, og de første 20 sekundene etter, varsles ikke lenger</li>
+<li>«Fant ikke DVS-innstillingene» kom på Mac-er der DVS er installert, men ikke i bruk</li>
+<li>Det siste lydutfallet før en oppdatering eller omstart ble varslet en gang til</li>
+</ul>
+<ul>
+<li>Takk for tilbakemeldingene! Si fra hvis du fortsatt får varsel når du åpner et sett.</li>
+</ul>
+</body></html>]]></description>
+            <enclosure url="https://github.com/EkseMartin/Vitals-releases/releases/download/v0.2.0.288/Vitals-0.2.0.288.pkg" length="6737223" type="application/octet-stream" sparkle:edSignature="wmy6AOP1jQX75CnB03eNjuaFv+OjheBqpzqHp5RHJ6WYGA05sS3Xc/YC92nYWP4crCb+X+WMFZL5pCa6+9I6Cg=="></enclosure>
+        </item>
+        <item>
             <title>Vitals 0.2.0.275</title>
             <pubDate>Mon, 19 Oct 2026 13:04:57 +0200</pubDate>
             <sparkle:version>275</sparkle:version>
@@ -405,6 +442,6 @@ li::before{content:"\00B7  ";color:#80868F}
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: KH3IzHz4eknLutF7yrpwb0ZgwDpB1Zdo9dEVlLgwXP/V63TeeGZY3EYWekSap2LVmy40ixEVPl6OJYJmigwMBA==
-length: 27875
+edSignature: juxyqFZK25py+WM+bkBZhuwvwCGexDeZFgSMcBqeISvB9H8e4PQGPfhQInIIHBjkg/cUAhZRCyIfvg1GUK0HCA==
+length: 30142
 -->
