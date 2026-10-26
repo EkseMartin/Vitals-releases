@@ -7,6 +7,46 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Nye versjoner av Vitals</description>
         <language>nb</language>
         <item>
+            <title>Vitals 0.2.0.318</title>
+            <pubDate>Mon, 26 Oct 2026 14:46:31 +0100</pubDate>
+            <sparkle:version>318</sparkle:version>
+            <sparkle:shortVersionString>0.2.0.318</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><style>
+:root{color-scheme:light dark;--bg:#ECECEE;--surface:#FFFFFF;--ink:#1D1D1F;--muted:#616166;--line:#D9D9DE}
+@media (prefers-color-scheme:dark){:root{--bg:#1C1D20;--surface:#2B2C30;--ink:#F2F2F4;--muted:#AEAFB6;--line:#3D3E44}}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{padding:12px;font:13px/1.35 -apple-system,BlinkMacSystemFont,sans-serif}
+.h{display:flex;justify-content:space-between;align-items:baseline;margin:0 4px 12px}
+.h b{font-weight:600}
+.h span{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
+h2{margin:0 4px 6px;font-size:12px;font-weight:600;color:var(--muted)}
+ul{list-style:none;margin:0;padding:0 12px;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+ul+h2,ul+ul{margin-top:16px}
+li{padding:8px 0}
+li+li{border-top:1px solid var(--line)}
+</style></head><body>
+<div class="h"><b>Vitals 0.2.0.318</b><span>26.10.2026</span></div>
+<h2>Nytt</h2>
+<ul>
+<li>QLab og LiveProfessor slår på show-modus, som Live. Lydkort, samplerate og lydutfall sjekkes for dem også</li>
+<li>Når show-modus går på, kommer et varsel med knappen «Ikke show nå». Show-merket øverst i menyen gir «Show nå» og «Ikke show nå»</li>
+<li>Opptak i Logic Pro: Vitals endrer ingenting under opptak, varsler hvis Logic avsluttes midt i et opptak, og viser hvor mye opptakstid det er plass til</li>
+<li>Det som kobles fra under et opptak, varsles som under show</li>
+<li>Spotlight settes på pause under show og opptak, og slås på igjen etterpå. Lockup har fått bryteren «Spotlight av»</li>
+<li>Lockup-siden viser om iCloud Drive er på, med en knapp til innstillingene</li>
+</ul>
+<h2>Rettet</h2>
+<ul>
+<li>Time Machine kunne ikke leses på Lockup-siden, og fikk likevel en grønn hake</li>
+</ul>
+<ul>
+<li>Si fra hvis show-modus går på eller av når den ikke skal, eller hvis noe er støy.</li>
+</ul>
+</body></html>]]></description>
+            <enclosure url="https://github.com/EkseMartin/Vitals-releases/releases/download/v0.2.0.318/Vitals-0.2.0.318.pkg" length="6885976" type="application/octet-stream" sparkle:edSignature="4X5NOi35Xwgjg0MrK7hNRMNgC4XdJA4QnJLwhjqu+mkPjkOwoY5KA8+WQyrcD/g9eyzddvJ7d+1973N+blyaCw=="></enclosure>
+        </item>
+        <item>
             <title>Vitals 0.2.0.290</title>
             <pubDate>Thu, 22 Oct 2026 18:07:25 +0200</pubDate>
             <sparkle:version>290</sparkle:version>
@@ -483,6 +523,6 @@ li::before{content:"\00B7  ";color:#80868F}
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 02dVWP20OM165kB83Exz50S0B3l5SrReOuHyiEt6upPdPHzob16akLOtsmx0rBUHfyEm4mNycQ95VRzG29lzCw==
-length: 32775
+edSignature: z9QeTHMJClNfRmjiLqtyPeW21/0CYCWb19daV3sKtHQDCKpivcD0W6a1I9M8AczqVKY1QUlkk9ZRHtn9TA3nDA==
+length: 35411
 -->
