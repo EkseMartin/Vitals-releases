@@ -7,6 +7,48 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Nye versjoner av Vitals</description>
         <language>nb</language>
         <item>
+            <title>Vitals 0.2.0.323</title>
+            <pubDate>Mon, 26 Oct 2026 18:29:15 +0100</pubDate>
+            <sparkle:version>323</sparkle:version>
+            <sparkle:shortVersionString>0.2.0.323</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<!doctype html><html><head><meta charset="utf-8"><style>
+:root{color-scheme:light dark;--bg:#ECECEE;--surface:#FFFFFF;--ink:#1D1D1F;--muted:#616166;--line:#D9D9DE}
+@media (prefers-color-scheme:dark){:root{--bg:#1C1D20;--surface:#2B2C30;--ink:#F2F2F4;--muted:#AEAFB6;--line:#3D3E44}}
+html,body{margin:0;background:var(--bg);color:var(--ink)}
+body{padding:12px;font:13px/1.35 -apple-system,BlinkMacSystemFont,sans-serif}
+.h{display:flex;justify-content:space-between;align-items:baseline;margin:0 4px 12px}
+.h b{font-weight:600}
+.h span{color:var(--muted);font-size:12px;font-variant-numeric:tabular-nums}
+h2{margin:0 4px 6px;font-size:12px;font-weight:600;color:var(--muted)}
+ul{list-style:none;margin:0;padding:0 12px;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+ul+h2,ul+ul{margin-top:16px}
+li{padding:8px 0}
+li+li{border-top:1px solid var(--line)}
+</style></head><body>
+<div class="h"><b>Vitals 0.2.0.323</b><span>26.10.2026</span></div>
+<h2>Nytt</h2>
+<ul>
+<li>Maskin har fått kortet «Minne»: hvor mye som er brukt, minnetrykk, swap og hvilke apper som bruker mest minne</li>
+<li>Når minnet begynner å bli fullt, sier advarselen hvilke apper som bruker mest</li>
+<li>QLab og LiveProfessor slår på show-modus, som Live. Lydkort, samplerate og lydutfall sjekkes for dem også</li>
+<li>Når show-modus går på, kommer et varsel med knappen «Ikke show nå». Show-merket øverst i menyen gir «Show nå» og «Ikke show nå»</li>
+<li>Opptak i Logic Pro: Vitals endrer ingenting under opptak, varsler hvis Logic avsluttes midt i et opptak, og viser hvor mye opptakstid det er plass til</li>
+<li>Det som kobles fra under et opptak, varsles som under show</li>
+<li>Spotlight settes på pause under show og opptak, og slås på igjen etterpå. Lockup har fått bryteren «Spotlight av»</li>
+<li>Lockup-siden viser om iCloud Drive er på, med en knapp til innstillingene</li>
+</ul>
+<h2>Rettet</h2>
+<ul>
+<li>Time Machine kunne ikke leses på Lockup-siden, og fikk likevel en grønn hake</li>
+</ul>
+<ul>
+<li>Si fra hvis show-modus går på eller av når den ikke skal, eller hvis noe er støy.</li>
+</ul>
+</body></html>]]></description>
+            <enclosure url="https://github.com/EkseMartin/Vitals-releases/releases/download/v0.2.0.323/Vitals-0.2.0.323.pkg" length="6923115" type="application/octet-stream" sparkle:edSignature="BoG6NHSFv8UD3HVsLShSRZn2Mt+YwpM5DAP08hqiHxIGpuEV/YP2yRqx9aYxboBTvoiitQ0MneLQk6UgNrzyBg=="></enclosure>
+        </item>
+        <item>
             <title>Vitals 0.2.0.318</title>
             <pubDate>Mon, 26 Oct 2026 14:46:31 +0100</pubDate>
             <sparkle:version>318</sparkle:version>
@@ -523,6 +565,6 @@ li::before{content:"\00B7  ";color:#80868F}
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: z9QeTHMJClNfRmjiLqtyPeW21/0CYCWb19daV3sKtHQDCKpivcD0W6a1I9M8AczqVKY1QUlkk9ZRHtn9TA3nDA==
-length: 35411
+edSignature: 11txxsZSWQrwOjNtqOOi077/r+UKuZLTN+WB0c/F9jY2R/pi+efMrebiivTN2mtJ2WfEy2Lp41Lhwx3+ckXSAw==
+length: 38258
 -->
